@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning about EVERYTHING but more specifically ML and DSA
+- 🔭 I’m currently working on several projects concurrently so stay tuned!
+- 😄 I hope that these repos are of some help or inspiration!
 <!--
 **Y-Noor/y-noor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
