@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning about EVERYTHING but more specifically ML and DSA
-- 🔭 I’m currently working on several projects concurrently so stay tuned!
+- 🌱 I’m currently learning specifically ML and DSA!
+- 🔭 I’m currently working on a small Autograd library for arbitrary Neural Networks or arbitrary size
 - 😄 I hope that these repos are of some help or inspiration!
 <!--
 **Y-Noor/y-noor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
