@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning specifically ML and DSA!
+- 🌱 I’m currently learning specifically Robotics, ML and DSA!
 - 🔭 I’m currently working on a small Autograd library for arbitrary Neural Networks or arbitrary size
 - 😄 I hope that these repos are of some help or inspiration!
 <!--
